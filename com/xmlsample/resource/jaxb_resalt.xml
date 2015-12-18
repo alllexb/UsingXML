@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<company id="1">
+    <name>Epam</name>
+    <workers>
+        <worker id="1">
+            <age>30</age>
+            <name>Alexander</name>
+            <salary>500</salary>
+        </worker>
+        <worker id="2">
+            <age>30</age>
+            <name>Kiril</name>
+            <salary>2100</salary>
+        </worker>
+    </workers>
+</company>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company_list>
+	<company id="1" name = "Oracle">
+		<departments>
+			<department>
+				<name>Java Core Department</name>
+				<workers>
+					<worker id="1">
+						<name>Alexander</name>
+						<position>Programmer</position>
+						<salary>500</salary>	
+					</worker>
+					<worker id="2">
+						<name>Yuriy</name>
+						<position>Programmer</position>
+						<salary>1500</salary>	
+					</worker>
+					<worker id="3">
+						<name>Jane</name>
+						<position>Manager</position>
+						<salary>2000</salary>
+					</worker>
+				</workers>
+			</department>
+			<department>
+				<name>Android Department</name>
+				<workers>
+					<worker id="4">
+						<name>Jone</name>
+						<position>Programmer</position>
+						<salary>800</salary>
+					</worker>
+					<worker id="5">
+						<name>Tom</name>
+						<position>Administrator</position>
+						<salary>1000</salary>
+					</worker>
+					<worker id="6">
+						<name>Samanta</name>
+						<position>Manager</position>
+						<salary>2000</salary>
+					</worker>
+				</workers>
+			</department>
+		</departments>
+	</company>
+	<company id="2" name = "Sun Microsystems">
+		<departments>
+			<department>
+				<name>Java Department</name>
+				<workers>
+					<worker id="7">
+						<name>Vladimir</name>
+						<position>Programmer</position>
+						<salary>400</salary>	
+					</worker>
+					<worker id="8">
+						<name>Serge</name>
+						<position>Programmer</position>
+						<salary>1300</salary>	
+					</worker>
+					<worker id="9">
+						<name>Martin</name>
+						<position>Manager</position>
+						<salary>1800</salary>
+					</worker>
+				</workers>
+			</department>
+			<department>
+				<name>Java Swing Department</name>
+				<workers>
+					<worker id="10">
+						<name>Jule</name>
+						<position>Programmer</position>
+						<salary>500</salary>
+					</worker>
+					<worker id="11">
+						<name>Erick</name>
+						<position>Administrator</position>
+						<salary>900</salary>
+					</worker>
+					<worker id="12">
+						<name>Veronika</name>
+						<position>Manager</position>
+						<salary>1800</salary>
+					</worker>
+				</workers>
+			</department>
+		</departments>
+	</company>
+</company_list>
