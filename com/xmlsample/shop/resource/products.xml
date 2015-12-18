@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<products>
+    <bootses>
+        <boots>
+            <price>34.56</price>
+            <title>Arno</title>
+            <color>black</color>
+            <size>41</size>
+        </boots>
+        <boots>
+            <price>45.01</price>
+            <title>Fingar</title>
+            <color>broun</color>
+            <size>40</size>
+        </boots>
+    </bootses>
+    <cameres>
+        <camera>
+            <price>145.67</price>
+            <title>Canon</title>
+            <digetal>true</digetal>
+            <megapixels>12</megapixels>
+        </camera>
+    </cameres>
+</products>
